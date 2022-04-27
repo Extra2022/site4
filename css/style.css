@@ -1,0 +1,153 @@
+/* &display=swap&subset=cyrillic-ext */
+@import url("https://fonts.googleapis.com/css?family=My+Soul:regular&display=swap&subset=cyrillic-ext");
+@import url("https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap&subset=cyrillic-ext");
+
+
+
+
+
+@font-face {
+	font-family: "Microsoft Sans Serif";
+	src: url("../fonts/MicrosoftSansSerif.woff2") format("woff2"),
+		url("../fonts/MicrosoftSansSerif.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "DIN Pro";
+	src: url("../fonts/DINPro-Bold.woff2") format("woff2"),
+		url("../fonts/DINPro-Bold.woff") format("woff");
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "DIN Pro";
+	src: url("../fonts/DINPro.woff2") format("woff2"),
+		url("../fonts/DINPro.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+html,
+body {
+	height: 100%;
+}
+html {
+	font-size: 16px; /* по умолчанию */
+}
+body {
+	line-height: 1;
+}
+/* .wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}*/
+
+h1 {font-family: "Montserrat Alternates", serif;
+font-size: 32px;
+font-weight: 700;
+line-height: 39px;
+margin: 30px 0px 30px 500px;}
+
+
+h2 {font-family: "Montserrat Alternates", serif;
+font-size: 26px;
+line-height: 42px;
+margin: 30px 0px 30px 500px;
+font-weight: 700;}
+
+h3{font-family: "Montserrat Alternates",
+serif;
+font-size: 20px;
+line-height: 32px;
+font-weight: bold;
+background-color: #fafafa;
+max-width:450px;
+margin: 30px 300px 0px 500px;}
+
+h4 {margin: 30px 300px 30px 500px;
+font-family: "Montserrat Alternates",
+serif;
+font-size: 17px;
+line-height: 27px;
+font-weight: 700;}
+
+p.only {margin: 30px 300px 30px 500px}
+
+
+
+* {font-family: "Microsoft Sans Serif", serif;
+font-size: 17px;
+line-height: 27px;
+font-weight: 400;}
+
+.oglavlenie {background-color: #fafafa;
+max-width:450px;
+margin: 0px 300px 30px 500px;}
+
+.orange {background-color: #fff8e1;
+color: #e68334;
+margin: 30px 300px 0px 500px;
+padding: 30px;
+}
+
+img {margin: 30px 300px 30px 500px;}
+
+.green {
+	background-color: #e8f5e9;
+	color: #477F4B;
+	margin: 30px 300px 0px 500px;
+	padding: 30px;
+}
+
+a {color: rgb(7, 149, 231);
+text-decoration: underline;}
+
+.cifra {font-size: 24px;
+line-height: 39px;
+font-family: "Montserrat Alternates", serif;
+font-weight: 700;
+margin: 30px 300px 0px 500px;
+}
+
+.spisok {margin: 30px 300px 30px 500px;
+font-family: "Microsoft Sans Serif",
+serif;
+font-size: 17px;
+line-height: 27px;
+font-weight: 400;}
